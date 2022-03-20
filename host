@@ -1,4 +1,10 @@
 # this is a list of the most popular ads companies blocked
+0.0.0.0 adtago.s3.amazonaws.com
+0.0.0.0 analyticsengine.s3.amazonaws.com
+0.0.0.0 advice-ads.s3.amazonaws.com
+0.0.0.0 affiliationjs.s3.amazonaws.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 ssl.google-analytics.com
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.net
 0.0.0.0 media.fastclick.net
@@ -13,6 +19,9 @@
 0.0.0.0 adsdk.yandex.ru
 0.0.0.0 appmetrica.yandex.com
 0.0.0.0 hotjar.com
+0.0.0.0 static.hotjar.com
+0.0.0.0 api-hotjar.com
+0.0.0.0 jotjar-analytics.com
 0.0.0.0 mouseflow.com
 0.0.0.0 freshmarketer.com
 0.0.0.0 luckyorange.com
@@ -38,6 +47,11 @@
 # 0.0.0.0 facebook.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 googleadservices.com
+0.0.0.0 doubleclick.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 static.doubleclick.net
+0.0.0.0 m.doubleclick.net
+0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 carbonads.net
@@ -105,3 +119,13 @@
 0.0.0.0 ads-twitter.com
 0.0.0.0 ads-api.twitter.com
 0.0.0.0 advertising.twitter.com
+0.0.0.0 ads.linkedin.com
+0.0.0.0 analytics.pointdrive.linkedin.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 d.reddit.com
+0.0.0.0 rereddit.com
+0.0.0.0 events.redditmedia.com
+0.0.0.0 analytics.tiktok.com
+0.0.0.0 ads.tiktok.com
+0.0.0.0 analytics-sg.tiktok.com
+0.0.0.0 ads-sg.tiktok.com

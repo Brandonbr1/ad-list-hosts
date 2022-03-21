@@ -5,9 +5,7 @@ this one it tries to keep it simple with it tries to block  Ads, Error Trackers,
 
 ## to install
 
-`$adlist= Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/Brandonbr1/ad-list-hosts/main/host' 
-$adfile = "$env:windir\System32\drivers\etc\hosts"
-$adlist | Add-Content -PassThru $adfile`
+click [here on how to install this host file](https://github.com/Brandonbr1/ad-list-hosts/blob/main/install.md)
 
 ## LICENSE
 [Creative Commons Zero v1.0 Universal](https://github.com/Brandonbr1/ad-list-hosts/blob/main/LICENSE)
